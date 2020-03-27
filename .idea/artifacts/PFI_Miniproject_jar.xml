@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PFI_Miniproject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PFI_Miniproject_jar</output-path>
+    <root id="archive" name="PFI_Miniproject.jar">
+      <element id="module-output" name="PFI_Miniproject" />
+    </root>
+  </artifact>
+</component>

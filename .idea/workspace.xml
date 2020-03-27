@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PFI_Miniproject:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="113b9611-9519-4248-a96d-6fd8429eb8f1" name="Default Changelist" comment="" />
+    <list default="true" id="113b9611-9519-4248-a96d-6fd8429eb8f1" name="Default Changelist" comment="Finalized Miniproject">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PFI_Miniproject_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingApplication/TransferPage.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingApplication/TransferPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/CreateAccountPage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/CreateAccountPage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/CreateAccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/CreateAccountPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/SignInPage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/SignInPage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/SignInPage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/SignInPage$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/SignInPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PFI_Miniproject/BankingApplication/SignInPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFI_Miniproject/main/GUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFI_Miniproject/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PFI_Miniproject/main/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankingApplication/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingApplication/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankingApplication/AccountPage.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingApplication/AccountPage.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankingApplication/AccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingApplication/AccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankingApplication/CreateAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingApplication/CreateAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankingApplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingApplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankingApplication/SignInPage.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingApplication/SignInPage.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankingApplication/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingApplication/SignInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/User.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +49,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Hector &lt;hectorthoegersen@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -28,6 +68,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="284" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -38,12 +79,25 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankingApplication.Main" />
+      <module name="PFI_Miniproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BankingApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="PFI_Miniproject" />
@@ -72,6 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -95,21 +150,39 @@
       <workItem from="1585145397167" duration="1881000" />
       <workItem from="1585230014367" duration="19961000" />
       <workItem from="1585302987465" duration="7000" />
+      <workItem from="1585303274246" duration="18517000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finalized Miniproject" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalized Miniproject" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="831" y="346" key="#Project_Structure" timestamp="1584891692606">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="831" y="346" key="#Project_Structure/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1584891692606" />
-    <state x="952" y="393" key="#com.intellij.ide.util.MemberChooser" timestamp="1585253300727">
+    <state x="1047" y="348" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1585317729483">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="952" y="393" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585253300727" />
+    <state x="1047" y="348" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585317729483" />
+    <state x="952" y="393" key="#com.intellij.ide.util.MemberChooser" timestamp="1585334763844">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="952" y="393" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585334763844" />
+    <state x="898" y="535" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585336009037">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="898" y="535" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585336009037" />
+    <state x="996" y="473" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1585317676596">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="996" y="473" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585317676596" />
     <state x="827" y="419" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585053830789">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
@@ -118,49 +191,73 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="422" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585241343522" />
-    <state width="1808" height="384" key="GridCell.Tab.0.bottom" timestamp="1585269453820">
+    <state x="301" y="24" width="2003" height="1277" key="CommitChangelistDialog2" timestamp="1585336406875">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="1808" height="384" key="GridCell.Tab.0.bottom/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585269453820" />
-    <state width="1808" height="384" key="GridCell.Tab.0.center" timestamp="1585269453820">
+    <state x="301" y="24" width="2003" height="1277" key="CommitChangelistDialog2/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585336406875" />
+    <state x="1047" y="438" key="FileChooserDialogImpl" timestamp="1585334994920">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="1808" height="384" key="GridCell.Tab.0.center/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585269453820" />
-    <state width="1808" height="384" key="GridCell.Tab.0.left" timestamp="1585269453820">
+    <state x="1047" y="438" key="FileChooserDialogImpl/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585334994920" />
+    <state width="2092" height="381" key="GridCell.Tab.0.bottom" timestamp="1585335800588">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="1808" height="384" key="GridCell.Tab.0.left/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585269453820" />
-    <state width="1808" height="384" key="GridCell.Tab.0.right" timestamp="1585269453820">
+    <state width="2092" height="381" key="GridCell.Tab.0.bottom/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585335800588" />
+    <state width="2092" height="381" key="GridCell.Tab.0.center" timestamp="1585335800588">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="1808" height="384" key="GridCell.Tab.0.right/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585269453820" />
-    <state x="648" y="326" key="SettingsEditor" timestamp="1585244183966">
+    <state width="2092" height="381" key="GridCell.Tab.0.center/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585335800588" />
+    <state width="2092" height="381" key="GridCell.Tab.0.left" timestamp="1585335800588">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="648" y="326" key="SettingsEditor/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585244183966" />
-    <state x="1088" y="478" key="UIDesigner.ListEditorDialog" timestamp="1585264770882">
+    <state width="2092" height="381" key="GridCell.Tab.0.left/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585335800588" />
+    <state width="2092" height="381" key="GridCell.Tab.0.right" timestamp="1585335800588">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="1088" y="478" key="UIDesigner.ListEditorDialog/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585264770882" />
-    <state x="935" y="511" key="com.intellij.ide.util.TipDialog" timestamp="1585302987107">
+    <state width="2092" height="381" key="GridCell.Tab.0.right/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585335800588" />
+    <state width="2092" height="471" key="GridCell.Tab.1.bottom" timestamp="1585335628776">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="935" y="511" key="com.intellij.ide.util.TipDialog/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585302987107" />
-    <state x="918" y="564" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1585232039164">
+    <state width="2092" height="471" key="GridCell.Tab.1.bottom/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585335628776" />
+    <state width="2092" height="471" key="GridCell.Tab.1.center" timestamp="1585335628776">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="918" y="564" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585232039164" />
+    <state width="2092" height="471" key="GridCell.Tab.1.center/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585335628776" />
+    <state width="2092" height="471" key="GridCell.Tab.1.left" timestamp="1585335628776">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2092" height="471" key="GridCell.Tab.1.left/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585335628776" />
+    <state width="2092" height="471" key="GridCell.Tab.1.right" timestamp="1585335628776">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2092" height="471" key="GridCell.Tab.1.right/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585335628776" />
+    <state x="648" y="326" key="SettingsEditor" timestamp="1585336034554">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="648" y="326" key="SettingsEditor/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585336034554" />
+    <state x="1088" y="478" key="UIDesigner.ListEditorDialog" timestamp="1585335778753">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1088" y="478" key="UIDesigner.ListEditorDialog/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585335778753" />
+    <state x="935" y="511" key="com.intellij.ide.util.TipDialog" timestamp="1585303275029">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="935" y="511" key="com.intellij.ide.util.TipDialog/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585303275029" />
+    <state x="918" y="564" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1585317721782">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="918" y="564" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585317721782" />
     <state x="621" y="308" key="new project wizard" timestamp="1584925539377">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="621" y="308" key="new project wizard/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1584925539377" />
-    <state x="895" y="326" key="run.anything.popup" timestamp="1585260505092">
+    <state x="895" y="326" key="run.anything.popup" timestamp="1585324880408">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="895" y="326" key="run.anything.popup/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585260505092" />
-    <state x="902" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1585262164013">
+    <state x="895" y="326" key="run.anything.popup/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585324880408" />
+    <state x="902" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1585331643437">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="902" y="317" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585262164013" />
+    <state x="902" y="317" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410/2560.5.1920.1170@0.0.2560.1410" timestamp="1585331643437" />
   </component>
 </project>

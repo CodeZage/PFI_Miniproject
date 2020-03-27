@@ -106,7 +106,9 @@
             <constraints>
               <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
             </constraints>
-            <properties/>
+            <properties>
+              <foreground color="-9868429"/>
+            </properties>
           </component>
         </children>
       </grid>
@@ -114,7 +116,9 @@
         <constraints>
           <grid row="3" column="0" row-span="1" col-span="2" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
         </constraints>
-        <properties/>
+        <properties>
+          <foreground color="-9868429"/>
+        </properties>
       </component>
     </children>
   </grid>
